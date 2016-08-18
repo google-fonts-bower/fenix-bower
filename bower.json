@@ -1,0 +1,17 @@
+{
+    "name": "fenix-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Fernando D\u00edaz"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/fenix-bower.git"
+    },
+    "description": "Fenix font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
